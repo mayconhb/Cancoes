@@ -1,0 +1,6 @@
+{
+  "name": "Melodia IA",
+  "description": "Transforme sua história em uma música inesquecível criada por inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
